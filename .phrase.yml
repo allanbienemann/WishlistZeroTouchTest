@@ -3,11 +3,11 @@ phrase:
   project_id: f220a09b66423922daede0b64352f350
   push:
     sources:
-    - file: /Users/allanbienemann/Downloads/WishlistPlanningTravelInASwiftUIApp/Wishlist/Resources/Localizable.xcstrings
+    - file: ./Wishlist/Resources/Localizable.xcstrings
       params:
         file_format: strings_catalog
   pull:
     targets:
-    - file: /Users/allanbienemann/Downloads/WishlistPlanningTravelInASwiftUIApp/Wishlist/Resources/Localizable.xcstrings
+    - file: ./Wishlist/Resources/Localizable.xcstrings
       params:
         file_format: strings_catalog
