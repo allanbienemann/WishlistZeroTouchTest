@@ -3,92 +3,14 @@
   "strings" : {
     "%lld of %lld" : {
       "localizations" : {
-        "en" : {
+        "es" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%1$lld of %2$lld"
+            "state" : "translated",
+            "value" : "%1$lld de %2$lld"
           }
         }
       }
-    },
-    "^[%lld ACTIVITIES](inflect: true)" : {
-
-    },
-    "Activities" : {
-
-    },
-    "Add an Activity" : {
-
-    },
-    "Are you sure you want to delete this activity?" : {
-
-    },
-    "Cancel" : {
-
-    },
-    "Check spelling or try a new search." : {
-
-    },
-    "Collection" : {
-
-    },
-    "Delete" : {
-
-    },
-    "Delete Activity" : {
-
-    },
-    "Discard" : {
-
-    },
-    "Discard changes?" : {
-
-    },
-    "Earn these awards by completing trips and activities" : {
-
-    },
-    "Edit" : {
-
-    },
-    "Enter activity name" : {
-
-    },
-    "Goals" : {
-
-    },
-    "New Trip" : {
-
-    },
-    "Next milestones" : {
-
-    },
-    "No results for “%@”" : {
-
-    },
-    "RECENTLY ADDED" : {
-
-    },
-    "Search" : {
-
-    },
-    "Sort" : {
-
-    },
-    "Sort By" : {
-
-    },
-    "Trip Activities" : {
-
-    },
-    "Trip Title" : {
-
-    },
-    "Trips, Destinations and More." : {
-
-    },
-    "Wishlist" : {
-      "comment" : "The one string I’m going to change"
     }
   },
-  "version" : "1.1"
+  "version" : "1.0"
 }
