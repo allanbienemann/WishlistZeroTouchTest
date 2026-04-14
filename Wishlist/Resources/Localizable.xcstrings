@@ -1,272 +1,272 @@
 {
   "sourceLanguage" : "en",
   "strings" : {
-    "^[%lld ACTIVITIES](inflect: true)" : {
+    "%lld of %lld" : {
       "localizations" : {
-        "es" : {
+        "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "^[%lld ACTIVIDADES](inflect: true)"
+            "value" : "%lld of %lld"
           }
         }
       }
     },
-    "%lld of %lld" : {
+    "^[%lld ACTIVITIES](inflect: true)" : {
       "localizations" : {
-        "es" : {
+        "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%lld de %lld"
+            "value" : "^[%lld ACTIVITIES](inflect: true)"
           }
         }
       }
     },
     "Activities" : {
       "localizations" : {
-        "es" : {
+        "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Actividades"
+            "value" : "Activities"
           }
         }
       }
     },
     "Add an Activity" : {
       "localizations" : {
-        "es" : {
+        "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Añadir una actividad"
+            "value" : "Add an Activity"
           }
         }
       }
     },
     "Are you sure you want to delete this activity?" : {
       "localizations" : {
-        "es" : {
+        "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "¿Estás seguro de que deseas eliminar esta actividad?"
+            "value" : "Are you sure you want to delete this activity?"
           }
         }
       }
     },
     "Cancel" : {
       "localizations" : {
-        "es" : {
+        "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cancelar"
+            "value" : "Cancel"
           }
         }
       }
     },
     "Check spelling or try a new search." : {
       "localizations" : {
-        "es" : {
+        "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Revisa la ortografía o prueba una nueva búsqueda."
+            "value" : "Check spelling or try a new search."
           }
         }
       }
     },
     "Collection" : {
       "localizations" : {
-        "es" : {
+        "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Colección"
+            "value" : "Collection"
           }
         }
       }
     },
     "Delete" : {
       "localizations" : {
-        "es" : {
+        "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Eliminar"
+            "value" : "Delete"
           }
         }
       }
     },
     "Delete Activity" : {
       "localizations" : {
-        "es" : {
+        "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Eliminar actividad"
+            "value" : "Delete Activity"
           }
         }
       }
     },
     "Discard" : {
       "localizations" : {
-        "es" : {
+        "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "descartar"
+            "value" : "Discard"
           }
         }
       }
     },
     "Discard changes?" : {
       "localizations" : {
-        "es" : {
+        "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "¿Descartar cambios?"
+            "value" : "Discard changes?"
           }
         }
       }
     },
     "Earn these awards by completing trips and activities" : {
       "localizations" : {
-        "es" : {
+        "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gana estos premios completando viajes y actividades"
+            "value" : "Earn these awards by completing trips and activities"
           }
         }
       }
     },
     "Edit" : {
       "localizations" : {
-        "es" : {
+        "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Editar"
+            "value" : "Edit"
           }
         }
       }
     },
     "Enter activity name" : {
       "localizations" : {
-        "es" : {
+        "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduzca el nombre de la actividad"
+            "value" : "Enter activity name"
           }
         }
       }
     },
     "Goals" : {
       "localizations" : {
-        "es" : {
+        "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Metas"
+            "value" : "Goals"
           }
         }
       }
     },
     "New Trip" : {
       "localizations" : {
-        "es" : {
+        "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nuevo viaje"
+            "value" : "New Trip"
           }
         }
       }
     },
     "Next milestones" : {
       "localizations" : {
-        "es" : {
+        "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Próximos hitos"
+            "value" : "Next milestones"
           }
         }
       }
     },
     "No results for \"%@\"" : {
       "localizations" : {
-        "es" : {
+        "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sin resultados para \"%@\""
+            "value" : "No results for \"%@\""
           }
         }
       }
     },
     "RECENTLY ADDED" : {
       "localizations" : {
-        "es" : {
+        "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "AÑADIDO RECIENTEMENTE"
+            "value" : "RECENTLY ADDED"
           }
         }
       }
     },
     "Search" : {
       "localizations" : {
-        "es" : {
+        "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Buscar"
+            "value" : "Search"
           }
         }
       }
     },
     "Sort" : {
       "localizations" : {
-        "es" : {
+        "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "clasificar"
+            "value" : "Sort"
           }
         }
       }
     },
     "Sort By" : {
       "localizations" : {
-        "es" : {
+        "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ordenar por"
+            "value" : "Sort By"
           }
         }
       }
     },
     "Trip Activities" : {
       "localizations" : {
-        "es" : {
+        "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Actividades de viaje"
+            "value" : "Trip Activities"
           }
         }
       }
     },
     "Trip Title" : {
       "localizations" : {
-        "es" : {
+        "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Título del viaje"
+            "value" : "Trip Title"
           }
         }
       }
     },
     "Trips, Destinations and More." : {
       "localizations" : {
-        "es" : {
+        "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Viajes, destinos y más."
+            "value" : "Trips, Destinations and More."
           }
         }
       }
     },
     "Wishlist" : {
       "localizations" : {
-        "es" : {
+        "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lista de deseos"
+            "value" : "Wishlist"
           }
         }
       }
