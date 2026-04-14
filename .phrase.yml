@@ -9,4 +9,8 @@ phrase:
     targets:
     - file: ./Wishlist/Resources/Localizable.xcstrings
       params:
+        locale_id: en
+        locale_ids:
+                - de
+                - es
         file_format: strings_catalog
