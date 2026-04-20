@@ -1,28 +1,6 @@
 {
   "sourceLanguage" : "en",
   "strings" : {
-    "^[%lld ACTIVITIES](inflect: true)" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "^[%lld AKTIVITÄTEN](Inflekt: wahr)"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "^[%lld ACTIVITIES](inflect: true)"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "^[%lld ACTIVIDADES](inflect: true)"
-          }
-        }
-      }
-    },
     "%lld of %lld" : {
       "localizations" : {
         "de" : {
@@ -45,23 +23,45 @@
         }
       }
     },
-    "Activities" : {
+    "^[%lld ACTIVITIES](inflect: true)" : {
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
+            "value" : "^[%lld AKTIVITÄTEN](Inflekt: wahr)"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "^[%lld ACTIVITIES](inflect: true)"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "^[%lld ACTIVIDADES](inflect: true)"
+          }
+        }
+      }
+    },
+    "Activities" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "needs_review",
             "value" : "Aktivitäten"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Activities"
+            "value" : "New Activities"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "needs_review",
             "value" : "Actividades"
           }
         }
@@ -71,19 +71,19 @@
       "localizations" : {
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "needs_review",
             "value" : "Aktivität hinzufügen"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Add an Activity"
+            "value" : "Add a new Activity"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "needs_review",
             "value" : "Añadir una actividad"
           }
         }
