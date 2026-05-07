@@ -1,18 +1,18 @@
 phrase:
-  project_id: 0c4f8879d13caee2149365d001d29ad4
-  push:
-    sources:
-    - file: ./Wishlist/Resources/Localizable.xcstrings
-      params:
-        file_format: strings_catalog
-	update_translations: true
-	update_descriptions: true
-  pull:
-    targets:
-    - file: ./Wishlist/Resources/Localizable.xcstrings
-      params:
-        locale_id: en
-        locale_ids:
-                - es
-        file_format: strings_catalog
-	include_empty_translations: true
+    project_id: 0c4f8879d13caee2149365d001d29ad4
+    push:
+        sources:
+        - file: ./Wishlist/Resources/Localizable.xcstrings
+          params:
+              file_format: strings_catalog
+              update_translations: true
+              update_descriptions: true
+    pull:
+        targets:
+        - file: ./Wishlist/Resources/Localizable.xcstrings
+          params:
+              file_format: strings_catalog
+              include_empty_translations: true
+              locale_id: en
+              locale_ids:
+                  - es
